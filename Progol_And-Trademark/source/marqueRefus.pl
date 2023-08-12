@@ -1,5 +1,4 @@
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Learning aunt_of from parent_of and sister_of.
 
 % Settings
 
@@ -2110,7 +2109,7 @@ suffisammentDecrit(c-97/12,null).
 suffisammentDecrit(c-98/11,null).
 
 
-% Examples Positifs
+% Examples Négatifs
 
 
  :-marque(c-104/01-a). 
@@ -2133,7 +2132,7 @@ suffisammentDecrit(c-98/11,null).
  :-marque(c-64/02).
 
 
-% Exemples Négatifs
+% Exemples Positifs
 
 
 

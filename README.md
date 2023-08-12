@@ -12,8 +12,7 @@ Pour l'installation de Progol et des dépendances nécessaires (GCC 5.4.0), il f
    - marqueAll.pl
    - marqueAllNull.pl
    - marqueRefus.pl
-
-
+Pour cela, il faut se placer dans le dossier "source". Ensuite, il faut lancer la commande "./progol NomDuFichier.pl". 
 
 Pour plus d'informations concernant la façon dont ces 4 inputs files ont été réalisés, veillez vous référer au mémoire "Programmation logique inductive :
 application au droit des marques" réalisé en 2023.

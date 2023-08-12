@@ -12,6 +12,8 @@ Pour l'installation de Progol et des dépendances nécessaires (GCC 5.4.0), il f
    - marqueAll.pl
    - marqueAllNull.pl
    - marqueRefus.pl
+  
+
 Pour plus d'informations concernant la façon dont ces 4 inputs files ont été réalisés, veillez vous référer au mémoire "Programmation logique inductive :
 application au droit des marques" réalisé en 2023.
 Pour plus d'informations concernant le fonctionnement de Progol, veillez vous référer aux articles "Muggleton, S.(1995). Inverse Entailment and Progol. New Generation Computing, 13 : 245-286." et "Muggleton, S. and Firth, J. (2001). Relational Rule Induction with CPROGOL4.4 : A Tutorial Introduction. Relational Data Mining."
